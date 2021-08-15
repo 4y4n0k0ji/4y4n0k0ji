@@ -1,25 +1,22 @@
-# Welcome to my Profile
-
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I’m  <a href="https://www.linkedin.com/in/abdellatifembarki/">Abdellatif Embarki</a></h1>
-
-
+<br/>
+<br/>
 ## 🙋‍♂️ About Me
 
 - I’m looking to collaborate on **OpenSource Projects**
 - Most of my projects are available on **[My Github Repositories](https://github.com/abdellatif-embarki?tab=repositories)**
-
-
+<br/>
+<br/>
 ## Activity
 
-<div align="center">
-    <a href="https://github.com/abdellatif-embarki">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatif-embarki&layout=compact&langs_count=10&theme=tokyonight&title_color=2895BC&hide=VHDL,Stata&custom_title=Most recently used languages" alt="Most recently used languages">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdellatif-embarki&hide=issues&show_icons=true&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000&include_all_commits=true" alt="GitHub stats">
-	    <img src="https://activity-graph.herokuapp.com/graph?username=abdellatif-embarki&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
-	 </a>
-</div>
-
-
+    <a href="https://github.com/abdellatif-embarki/github-readme-stats">
+      <img alt="Abdellatif Embarki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdellatif-embarki&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/abdellatif-embarki/github-readme-stats">
+	<img alt="Abdellatif Embarki's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatif-embarki&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+<a href="https://github.com/abdellatif-embarki/github-readme-activity-graph"><img alt="Abdellatif Embarki's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abdellatif-embarki&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
+<br/>
 ## Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
