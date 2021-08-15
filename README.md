@@ -7,29 +7,22 @@
 - Most of my projects are available on **[My Github Repositories](https://github.com/abdellatif-embarki?tab=repositories)**
 
 
-## Activity
-
 <p align="center">
     <a href="https://github.com/abdellatif-embarki/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdellatif Embarki's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abdellatif-embarki&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-## 📊 My Github Stats
+
+## 📊 Activity
   <br/>
     <a href="https://github.com/abdellatif-embarki/github-readme-stats"><img alt="Abdellatif Embarki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdellatif-embarki&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <br/>
   <a href="https://github.com/abdellatif-embarki/github-readme-stats"><img alt="Abdellatif Embarki's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatif-embarki&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 
 <a href="https://github.com/abdellatif-embarki/github-readme-activity-graph"><img alt="Abdellatif Embarki's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abdellatif-embarki&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-
-## Connect with me:
-
-<p align="left">
-<a href = "https://www.instagram.com/abdellatif.embarki/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
 
 
 ## Views and Followers
