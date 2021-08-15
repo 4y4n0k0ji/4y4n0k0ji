@@ -1,10 +1,12 @@
+# Welcome to my Profile
+
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I’m  <a href="https://www.linkedin.com/in/abdellatifembarki/">Abdellatif Embarki</a></h1>
 
 
 ## 🙋‍♂️ About Me
 
 - I’m looking to collaborate on **OpenSource Projects**
-- All of my projects are available on **[My Github Repositories](https://github.com/abdellatif-embarki?tab=repositories)**
+- Most of my projects are available on **[My Github Repositories](https://github.com/abdellatif-embarki?tab=repositories)**
 
 
 ## Activity
@@ -18,7 +20,7 @@
 </div>
 
 
-## ❤ Views and Followers
+## Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=abdellatif-embarki">
