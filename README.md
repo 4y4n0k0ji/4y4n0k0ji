@@ -1,4 +1,5 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I’m  <a href="https://www.linkedin.com/in/abdellatifembarki/">Abdellatif Embarki</a></h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I’m  <a href="https://www.linkedin.com/in/abdellatifembarki/">Abdellatif Embarki</a>
+</h1>
 
 
 ## 🙋‍♂️ About Me
@@ -15,17 +16,20 @@
 
 
 ## 📊 Activity
-  <br/>
+ <p align="center">
     <a href="https://github.com/abdellatif-embarki/github-readme-stats"><img alt="Abdellatif Embarki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdellatif-embarki&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <br/>
+    
   <a href="https://github.com/abdellatif-embarki/github-readme-stats"><img alt="Abdellatif Embarki's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatif-embarki&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+    
   <br/>
-
-
+  <br/>
+<p align="center">
 <a href="https://github.com/abdellatif-embarki/github-readme-activity-graph"><img alt="Abdellatif Embarki's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abdellatif-embarki&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</p>
 
 
-## Views and Followers
+## 👀 Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=abdellatif-embarki">
