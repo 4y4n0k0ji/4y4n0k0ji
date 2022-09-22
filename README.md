@@ -1,9 +1,9 @@
 ## 🙋‍♂️ About Me
 
-- 👋 Hi, I’m <a href="https://www.linkedin.com/in/abdellatif-embarki/">Abdellatif Embarki</a>
+- 👋 Hi, I’m <a href="https://www.linkedin.com/in/abdellatif-embarki/">***Abdellatif Embarki***</a>
 - 🌱 My public projects are available on ***[My Github Repositories](https://github.com/abdellatif-embarki?tab=repositories)***
 - 💞️ I’m looking to collaborate on ***OpenSource Projects***
-- 📫 Reach me on <a href="https://www.linkedin.com/in/abdellatif-embarki/">LinkedIn</a>
+- 📫 Reach me on <a href="https://www.linkedin.com/in/abdellatif-embarki/">***LinkedIn***</a>
 
 <p align="center">
     <a href="https://github-readme-streak-stats.herokuapp.com">
