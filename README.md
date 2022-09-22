@@ -1,12 +1,9 @@
-<h2 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I’m  <a href="https://www.linkedin.com/in/abdellatif-embarki/">Abdellatif Embarki</a>
-</h2>
-
-
 ## 🙋‍♂️ About Me
 
-- I’m looking to collaborate on ***OpenSource Projects***
-- My public projects are available on ***[My Github Repositories](https://github.com/abdellatif-embarki?tab=repositories)***
-
+- 👋 Hi, I’m <a href="https://www.linkedin.com/in/abdellatif-embarki/">Abdellatif Embarki</a>
+- 🌱 My public projects are available on ***[My Github Repositories](https://github.com/abdellatif-embarki?tab=repositories)***
+- 💞️ I’m looking to collaborate on ***OpenSource Projects***
+- 📫 Reach me on <a href="https://www.linkedin.com/in/abdellatif-embarki/">LinkedIn</a>
 
 <p align="center">
     <a href="https://github-readme-streak-stats.herokuapp.com">
@@ -32,7 +29,9 @@
 
 ## 👀 Views and Followers
 
-<img alt="Abdellatif Embarki's Github views" src="https://komarev.com/ghpvc/?username=abdellatif-embarki">
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=abdellatif-embarki&color=blue&label=PROFILE+VIEWS" alt="Abdellatif Embarki's Github views">
+</a>
 <a href="https://github.com/abdellatif-embarki?tab=followers">
-    <img alt="Abdellatif Embarki's Github followers" src="https://img.shields.io/github/followers/abdellatif-embarki?label=Followers&style=social" />
+    <img src="https://img.shields.io/github/followers/abdellatif-embarki?label=FOLLOWERS&style=social" alt="Abdellatif Embarki's Github followers">
 </a>
