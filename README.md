@@ -1,8 +1,8 @@
 ## 🙋‍♂️ About Me
 
 - 👋 Hi, I’m <a href="https://www.linkedin.com/in/abdellatif-embarki/">***Abdellatif Embarki***</a>
-- 🌱 My public projects are available on ***[My Github Repositories](https://github.com/abdellatif-embarki?tab=repositories)***
-- 💞️ I’m looking to collaborate on ***OpenSource Projects***
+- 💻 My public projects are available on ***[My Github Repositories](https://github.com/abdellatif-embarki?tab=repositories)***
+- 🤝 I’m looking to collaborate on ***OpenSource Projects***
 - 📫 Reach me on <a href="https://www.linkedin.com/in/abdellatif-embarki/">***LinkedIn***</a>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <p align="center">
     <a href="https://github-readme-stats.vercel.app">
-        <img alt="Abdellatif Embarki's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatif-embarki&langs_count=8&count_private=true&theme=prussian" />
+        <img alt="Abdellatif Embarki's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatif-embarki&langs_count=8&count_private=true&theme=prussian" />
     </a>
 </p>
 
