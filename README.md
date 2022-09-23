@@ -16,13 +16,19 @@
 
 <p align="center">
     <a href="https://github-readme-stats.vercel.app">
-        <img alt="Abdellatif Embarki's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatif-embarki&langs_count=8&count_private=true&theme=prussian" />
+        <img alt="Abdellatif Embarki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdellatif-embarki&show_icons=true&count_private=true&theme=prussian" />
     </a>
 </p>
 
 <p align="center">
     <a href="https://github-readme-stats.vercel.app">
-        <img alt="Abdellatif Embarki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdellatif-embarki&show_icons=true&count_private=true&theme=prussian" />
+        <img alt="Abdellatif Embarki's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellatif-embarki&langs_count=8&count_private=true&theme=prussian" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/abdellatif-embarki/WebRTC-video-chat-app">
+        <img alt="Abdellatif Embarki's Github repo" src="https://github-readme-stats.vercel.app/api/pin/?username=abdellatif-embarki&repo=WebRTC-video-chat-app&theme=prussian&show_owner=false" />
     </a>
 </p>
 
